@@ -54,7 +54,8 @@ This repository organizes papers, learning materials, codes for the purpose of u
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
 2. CSS10: A collection of single speaker speech datsets for 10 langauges [[code]](https://github.com/Kyubyong/css10)
 
-## Data Preprocessing
+## Data (Pre)processing
 1. Korean pronunciation and romanization based on Wiktionary ko-pron lua module [[code]](https://github.com/kord123/ko_pron)
 2. Audio Signal Processing [[code]](https://github.com/sooftware/Audio-Signal-Processing)
 3. Phonological Features (for the paper "Phonological features for 0-shot multilingual speech synthesis") [[paper]] [[code]](https://github.com/papercup-open-source/phonological-features)
+4. SMART-G2P (change English and Kangi expressions in Korean sentence into Korean pronunciation) [[code]](https://github.com/SMART-TTS/SMART-G2P)
