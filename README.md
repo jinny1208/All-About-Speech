@@ -40,7 +40,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Learning Latent Representations for Style Control and Transfer in End-to-end Speech Synthesis (Tacotron-VAE) [[paper]] [[code]](https://github.com/jinhan/tacotron2-vae)
   - Time Domain Neural Audio Style Transfer (NIPS 2017) [[paper]] [[code]](https://github.com/pkmital/time-domain-neural-audio-style-transfer)
   - Meta-StyleSpeech and StyleSpeech [[paper]] [[code]](https://github.com/KevinMIN95/StyleSpeech)
-  - Cross-Speaker Emotion Transfer Based on Speaker Conditino Layer Normalization and Semi-Supervised Training in Text-to-Speech [[paper]] [[code]]https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer
+  - Cross-Speaker Emotion Transfer Based on Speaker Conditino Layer Normalization and Semi-Supervised Training in Text-to-Speech [[paper]] [[code]](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer)
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
