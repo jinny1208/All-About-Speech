@@ -35,6 +35,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Transforming spectrum and prosody for emotional voice conversion with non-parallel training data [[paper]] [[code]](https://github.com/KunZhou9646/emotional-voice-conversion-with-CycleGAN-and-CWT-for-Spectrum-and-F0)
   - Multi-Reference Neural TTS Stylization with Adversarial Cycle Consistency [[paper]] [[code]](https://github.com/entn-at/acc-tacotron2)
   - Learning Latent Representations for Style Control and Transfer in End-to-end Speech Synthesis (Tacotron-VAE) [[paper]] [[code]](https://github.com/jinhan/tacotron2-vae)
+  - Time Domain Neural Audio Style Transfer (NIPS 2017) [[paper]] [[code]](https://github.com/pkmital/time-domain-neural-audio-style-transfer)
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
