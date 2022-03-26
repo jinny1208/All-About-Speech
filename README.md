@@ -59,7 +59,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 ## Learning Materials
 1. Digital Signal Processing Lecture [[link]](https://github.com/spatialaudio/digital-signal-processing-lecture)
 2. Ratsgo's Speechbook [[link]](https://github.com/ratsgo/speechbook)
-3. 
+3. YSDA Course in Speech Processing [[code]](https://github.com/yandexdataschool/speech_course)
 
 ## Datasets
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
