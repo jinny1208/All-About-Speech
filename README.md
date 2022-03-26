@@ -21,6 +21,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (2022 ACL) [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
+  - Speech to Singing (Interspeech 2020) [[code]](https://github.com/ericwudayi/speech2singing)
 
 * Codes and Toolkits
   - IMS Toucan Speech Synthesis Toolkit [[paper]](http://festvox.org/blizzard/bc2021/BC21_IMS.pdf) [[code]](https://github.com/DigitalPhonetics/IMS-Toucan)
@@ -33,6 +34,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 ## Speech Classification, Detection, Filter, etc.
 - HTS-AT: A Hierarchial Token-Semantic Audio Transformer for Sound Classification and Detection [[code]](https://github.com/RetroCirce/HTS-Audio-Transformer)
 - Google AI's VoiceFilter System [[code]](https://github.com/mindslab-ai/voicefilter)
+- DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (AAAI 2022) [[code]](https://github.com/MoonInTheRiver/DiffSinger)
 
 ## Linguistics
 
@@ -42,7 +44,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 3. 
 
 ## Datasets
-1. 
+1. VGGSound: A Large-scale Audio-Visual Dataset [[code]](https://github.com/hche11/VGGSound)
 
 ## Data Preprocessing
 1. Korean pronunciation and romanization based on Wiktionary ko-pron lua module [[code]](https://github.com/kord123/ko_pron)
