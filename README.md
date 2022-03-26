@@ -29,6 +29,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - SMART-TTS Single Emotional TTS [[code]](https://github.com/SMART-TTS/SMART-Single_Emotional_TTS)
   - Cross Speaker Emotion Transfer [[paper]] [[code]](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer)
   - AutoPST: Global Rhythm Style Transfer Without Text Transcriptions [[paper]] [[code]](https://github.com/auspicious3000/AutoPST)
+  - Transforming spectrum and prosody for emotional voice conversion with non-parallel training data [[paper]] [[code]](https://github.com/KunZhou9646/emotional-voice-conversion-with-CycleGAN-and-CWT-for-Spectrum-and-F0)
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
