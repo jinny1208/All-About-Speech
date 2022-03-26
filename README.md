@@ -12,6 +12,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - SpeechFormer [[paper]] [[code]](https://github.com/HappyColor/SpeechFormer)
   - Non-Attentive Tacotron [[paper]]() [[pytorch]](https://github.com/JoungheeKim/Non-Attentive-Tacotron)
   - Parallel Tacotron 2 [[paper]] [[code]](https://github.com/keonlee9420/Parallel-Tacotron2)
+  - FCL-taco2: Fast, Controllable and Lightweight version of Tacotron2 [[paper]] [[code]](https://github.com/Wendison/FCL-taco2)
   - Transformer TTS: Neural Speech Synthesis with Transformer Network [[paper]] [[code]](https://github.com/soobinseo/Transformer-TTS)
   - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech [[paper]] [[code]](https://github.com/jaywalnut310/vits)
 
@@ -28,6 +29,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss [[paper]] [[code]](https://github.com/auspicious3000/autovc)
   - SC-GlowTTS: an Efficient Zero-Shot Multi-Speaker Text-To-Speech Model [[code]](https://github.com/Edresson/SC-GlowTTS)
   - Deep Speaker: an End-to-End Neural Speaker Embedding System [[paper]] [[code]](https://github.com/philipperemy/deep-speaker)
+  - VQMIVC: One-shot (any-to-any) Voice Conversion [[paper]] [[code]](https://github.com/Wendison/VQMIVC)
 
 * Style (Emotion, Prosody)
   - SMART-TTS Single Emotional TTS [[code]](https://github.com/SMART-TTS/SMART-Single_Emotional_TTS)
