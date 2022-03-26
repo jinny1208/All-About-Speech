@@ -3,6 +3,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 ## Organizations
 * DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
+* Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
 
 ## TTS
 * TTS
@@ -15,6 +16,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - StarGan-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks [[paper]] [[code]](https://github.com/liusongxiang/StarGAN-Voice-Conversion)
   - Neural Voice Cloning with Few Audio Samples (Baidu) [[paper]]  [[code]](https://github.com/VisionBrain/Neural_Voice_Cloning)
   - Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques [[paper]] [[code]](https://github.com/mindslab-ai/assem-vc)
+  - Unet-TTS: Improving Unseen Speaker and Style Transfer in One-Shot Voice Cloning [[paper]](https://arxiv.org/abs/2109.11115) [[code]](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning)
 
 
 * Style (Emotion, Prosody)
@@ -38,6 +40,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 - Google AI's VoiceFilter System [[paper]] [[code]](https://github.com/mindslab-ai/voicefilter)
 - Improved End-toEnd Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning (Interspeech 2019) [[paper]] [[code]](https://github.com/KrishnaDN/speech-emotion-recognition-using-self-attention)
 - Multimodal Emotion Recognition with Tranformer-Based Self Supervised Feature Fusion [[paper]] [[code]](https://github.com/shamanez/Self-Supervised-Embedding-Fusion-Transformer)
+- Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings (Interspeech 2021) [[paper]] [[code]](https://github.com/habla-liaa/ser-with-w2v2)
 
 ## Linguistics
 
