@@ -20,7 +20,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * Style Transfer 
 
 * Music Related
-  - Learning the Beauty in Songs: Neural Singing Voice Beautifier (2022 ACL) [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
+  - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
   - Speech to Singing (Interspeech 2020) [[code]](https://github.com/ericwudayi/speech2singing)
 
 * Codes and Toolkits
