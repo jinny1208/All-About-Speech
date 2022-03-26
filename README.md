@@ -78,6 +78,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 ## Datasets
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
 2. CSS10: A collection of single speaker speech datsets for 10 langauges [[code]](https://github.com/Kyubyong/css10)
+3. IEMOCAP: 12 hours of audiovisual data with 10 male and female actors [[website](https://sail.usc.edu/iemocap/iemocap_release.htm)]
 
 ## Data (Pre)processing / Augmentation
 * Data (pre)processing
