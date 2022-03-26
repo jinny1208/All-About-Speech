@@ -37,6 +37,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 - HTS-AT: A Hierarchial Token-Semantic Audio Transformer for Sound Classification and Detection [[paper]] [[code]](https://github.com/RetroCirce/HTS-Audio-Transformer)
 - Google AI's VoiceFilter System [[paper]] [[code]](https://github.com/mindslab-ai/voicefilter)
 - Improved End-toEnd Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning (Interspeech 2019) [[paper]] [[code]](https://github.com/KrishnaDN/speech-emotion-recognition-using-self-attention)
+- Multimodal Emotion Recognition with Tranformer-Based Self Supervised Feature Fusion [[paper]] [[code]](https://github.com/shamanez/Self-Supervised-Embedding-Fusion-Transformer)
 
 ## Linguistics
 
