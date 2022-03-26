@@ -16,7 +16,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech [[paper]] [[code]](https://github.com/jaywalnut310/vits)
 
 
-* Voice Conversion / Voice Cloning 
+* Voice Conversion / Voice Cloning / Speaker Embedding
   - StarGan-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks [[paper]] [[code]](https://github.com/liusongxiang/StarGAN-Voice-Conversion)
   - Neural Voice Cloning with Few Audio Samples (Baidu) [[paper]]  [[code]](https://github.com/VisionBrain/Neural_Voice_Cloning)
   - Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques [[paper]] [[code]](https://github.com/mindslab-ai/assem-vc)
@@ -27,6 +27,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Again-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization [[paper]] [[code]](https://github.com/KimythAnly/AGAIN-VC)
   - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss [[paper]] [[code]](https://github.com/auspicious3000/autovc)
   - SC-GlowTTS: an Efficient Zero-Shot Multi-Speaker Text-To-Speech Model [[code]](https://github.com/Edresson/SC-GlowTTS)
+  - Deep Speaker: an End-to-End Neural Speaker Embedding System [[paper]] [[code]](https://github.com/philipperemy/deep-speaker)
 
 * Style (Emotion, Prosody)
   - SMART-TTS Single Emotional TTS [[code]](https://github.com/SMART-TTS/SMART-Single_Emotional_TTS)
@@ -59,6 +60,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings (Interspeech 2021) [[paper]] [[code]](https://github.com/habla-liaa/ser-with-w2v2)
 - Exploring Wav2vec 2.0 fine-tuning for improved speech emotion recognition [[paper]] [[code]](https://github.com/b04901014/FT-w2v2-ser)
 - Rethinking CNN Models for Audio Classification [[paper]] [[code]](https://github.com/kamalesh0406/Audio-Classification)
+- EEG-based emotion recognition using SincNet [[paper]] [[code]](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition)
 
 ## Speaker Verification
 - Cross attentive pooling for speaker verification (IEEE SLT 2021) [[paper]] [[code]](https://github.com/seongmin-kye/CAP)
