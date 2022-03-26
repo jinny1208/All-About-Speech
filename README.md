@@ -1,5 +1,5 @@
 # Everything About Speech
-This repository organizes papers, learning materials, codes for the purpose of understanding speech. There is another repository for machine/deep learning [here](https://github.com/jinny1208/All-Resources-Related-to-ML-DL)
+This repository organizes papers, learning materials, codes for the purpose of understanding speech. There is another repository for machine/deep learning [here](https://github.com/jinny1208/All-Resources-Related-to-ML-DL).
 
 ## Organizations
 * DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
