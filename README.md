@@ -46,7 +46,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 ## Speech Classification, Detection, Filter, etc.
 - HTS-AT: A Hierarchial Token-Semantic Audio Transformer for Sound Classification and Detection [[paper]] [[code]](https://github.com/RetroCirce/HTS-Audio-Transformer)
 - Google AI's VoiceFilter System [[paper]] [[code]](https://github.com/mindslab-ai/voicefilter)
-- Improved End-toEnd Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning (Interspeech 2019) [[paper]] [[code]](https://github.com/KrishnaDN/speech-emotion-recognition-using-self-attention)
+- Improved End-to-End Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning (Interspeech 2019) [[paper]] [[code]](https://github.com/KrishnaDN/speech-emotion-recognition-using-self-attention)
 - Multimodal Emotion Recognition with Tranformer-Based Self Supervised Feature Fusion [[paper]] [[code]](https://github.com/shamanez/Self-Supervised-Embedding-Fusion-Transformer)
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings (Interspeech 2021) [[paper]] [[code]](https://github.com/habla-liaa/ser-with-w2v2)
 - Exploring Wav2vec 2.0 fine-tuning for improved speech emotion recognition [[paper]] [[code]](https://github.com/b04901014/FT-w2v2-ser)
