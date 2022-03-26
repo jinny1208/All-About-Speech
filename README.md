@@ -48,6 +48,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 ## Datasets
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
+2. CSS10: A collection of single speaker speech datsets for 10 langauges [[code]](https://github.com/Kyubyong/css10)
 
 ## Data Preprocessing
 1. Korean pronunciation and romanization based on Wiktionary ko-pron lua module [[code]](https://github.com/kord123/ko_pron)
