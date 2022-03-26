@@ -10,6 +10,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - DC-TTS [[paper]] [[pytorch]](https://github.com/chaiyujin/dctts-pytorch)[[tensorflow]](https://github.com/Kyubyong/dc_tts)
   - Microsoft's LightSpeech [[paper]] [[code]](https://github.com/microsoft/NeuralSpeech)
   - SpeechFormer [[paper]] [[code]](https://github.com/HappyColor/SpeechFormer)
+  - Non-Attentive Tacotron [[paper]]() [[pytorch]](https://github.com/JoungheeKim/Non-Attentive-Tacotron)
 
 
 * Voice Conversion / Voice Cloning 
@@ -17,7 +18,9 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Neural Voice Cloning with Few Audio Samples (Baidu) [[paper]]  [[code]](https://github.com/VisionBrain/Neural_Voice_Cloning)
   - Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques [[paper]] [[code]](https://github.com/mindslab-ai/assem-vc)
   - Unet-TTS: Improving Unseen Speaker and Style Transfer in One-Shot Voice Cloning [[paper]](https://arxiv.org/abs/2109.11115) [[code]](https://github.com/CMsmartvoice/One-Shot-Voice-Cloning)
-
+  - FragmentVC: Any-to-any voice conversion by end-to-end extracting and fusing fine-grained voice fragments with attention [[paper]] [[code]](https://github.com/yistLin/FragmentVC)
+  - VectorQuantizedCPC: Vector-Quantized Contrastive Predictive Coding for Acoustic Unit Discovery and Voice Conversion [[paper]] [[code]](https://github.com/bshall/VectorQuantizedCPC)
+  - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data [[paper]] [[code]](https://github.com/mindslab-ai/cotatron)
 
 * Style (Emotion, Prosody)
   - SMART-TTS Single Emotional TTS [[code]](https://github.com/SMART-TTS/SMART-Single_Emotional_TTS)
@@ -42,6 +45,9 @@ This repository organizes papers, learning materials, codes for the purpose of u
 - Multimodal Emotion Recognition with Tranformer-Based Self Supervised Feature Fusion [[paper]] [[code]](https://github.com/shamanez/Self-Supervised-Embedding-Fusion-Transformer)
 - Emotion Recognition from Speech Using Wav2vec 2.0 Embeddings (Interspeech 2021) [[paper]] [[code]](https://github.com/habla-liaa/ser-with-w2v2)
 - Exploring Wav2vec 2.0 fine-tuning for improved speech emotion recognition [[paper]] [[code]](https://github.com/b04901014/FT-w2v2-ser)
+
+## Speaker Verification
+- Cross attentive pooling for speaker verification (IEEE SLT 2021) [[paper]] [[code]](https://github.com/seongmin-kye/CAP)
 
 ## Linguistics
 
