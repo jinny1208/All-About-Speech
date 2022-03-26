@@ -11,6 +11,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Microsoft's LightSpeech [[paper]] [[code]](https://github.com/microsoft/NeuralSpeech)
   - SpeechFormer [[paper]] [[code]](https://github.com/HappyColor/SpeechFormer)
   - Non-Attentive Tacotron [[paper]]() [[pytorch]](https://github.com/JoungheeKim/Non-Attentive-Tacotron)
+  - Parallel Tacotron 2 [[paper]] [[code]](https://github.com/keonlee9420/Parallel-Tacotron2)
 
 
 * Voice Conversion / Voice Cloning 
@@ -21,9 +22,11 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - FragmentVC: Any-to-any voice conversion by end-to-end extracting and fusing fine-grained voice fragments with attention [[paper]] [[code]](https://github.com/yistLin/FragmentVC)
   - VectorQuantizedCPC: Vector-Quantized Contrastive Predictive Coding for Acoustic Unit Discovery and Voice Conversion [[paper]] [[code]](https://github.com/bshall/VectorQuantizedCPC)
   - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data [[paper]] [[code]](https://github.com/mindslab-ai/cotatron)
+  - Again-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization [[paper]] [[code]](https://github.com/KimythAnly/AGAIN-VC)
 
 * Style (Emotion, Prosody)
   - SMART-TTS Single Emotional TTS [[code]](https://github.com/SMART-TTS/SMART-Single_Emotional_TTS)
+  - Cross Speaker Emotion Transfer [[paper]] [[code]](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer)
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
