@@ -26,6 +26,8 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - IMS Toucan Speech Synthesis Toolkit [[paper]](http://festvox.org/blizzard/bc2021/BC21_IMS.pdf) [[code]](https://github.com/DigitalPhonetics/IMS-Toucan)
   - CREPE pitch tracker [[code]](https://github.com/maxrmorrison/torchcrepe)
 
+* Vocoders
+
 ## ASR
 
 ## Speech Classification, Detection, Filter, etc.
