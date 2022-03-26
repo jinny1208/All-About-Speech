@@ -23,10 +23,12 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - VectorQuantizedCPC: Vector-Quantized Contrastive Predictive Coding for Acoustic Unit Discovery and Voice Conversion [[paper]] [[code]](https://github.com/bshall/VectorQuantizedCPC)
   - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data [[paper]] [[code]](https://github.com/mindslab-ai/cotatron)
   - Again-VC: A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization [[paper]] [[code]](https://github.com/KimythAnly/AGAIN-VC)
+  - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss [[paper]] [[code]](https://github.com/auspicious3000/autovc)
 
 * Style (Emotion, Prosody)
   - SMART-TTS Single Emotional TTS [[code]](https://github.com/SMART-TTS/SMART-Single_Emotional_TTS)
   - Cross Speaker Emotion Transfer [[paper]] [[code]](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer)
+  - AutoPST: Global Rhythm Style Transfer Without Text Transcriptions [[paper]] [[code]](https://github.com/auspicious3000/AutoPST)
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
