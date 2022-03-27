@@ -42,6 +42,13 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Meta-StyleSpeech and StyleSpeech [[paper]] [[code]](https://github.com/KevinMIN95/StyleSpeech)
   - Cross-Speaker Emotion Transfer Based on Speaker Conditino Layer Normalization and Semi-Supervised Training in Text-to-Speech [[paper]] [[code]](https://github.com/keonlee9420/Cross-Speaker-Emotion-Transfer)
 
+* Cross-lingual
+  - End-to-End Code-switching TTS with Cross-Lingual Language Model
+    - mandarin and english
+    - cross-lingual and multi-speaker
+    - baseline: "Building a mixed-lingual neural TTS system with only monolingual data"
+  - Building a mixed-lingual neural TTS system with only monolingual data
+
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
   - Speech to Singing (Interspeech 2020) [[paper]] [[code]](https://github.com/ericwudayi/speech2singing)
