@@ -48,6 +48,8 @@ This repository organizes papers, learning materials, codes for the purpose of u
     - cross-lingual and multi-speaker
     - baseline: "Building a mixed-lingual neural TTS system with only monolingual data"
   - Building a mixed-lingual neural TTS system with only monolingual data
+  - Transfer Learning, Style Control, and Speaker Reconstruction Loss for Zero-Shot Multilingual Multi-Speaker Text-to-Speech on Low-Resource Languages
+    - has many good references
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
