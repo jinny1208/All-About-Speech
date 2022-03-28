@@ -89,6 +89,11 @@ This repository organizes papers, learning materials, codes for the purpose of u
 2. CSS10: A collection of single speaker speech datsets for 10 langauges [[code]](https://github.com/Kyubyong/css10)
 3. IEMOCAP: 12 hours of audiovisual data with 10 male and female actors [[website](https://sail.usc.edu/iemocap/iemocap_release.htm)]
 
+## Aligners
+1. Montreal Forced Aligner
+  - For Korean [[link](https://chldkato.tistory.com/195)]
+3. df
+
 ## Data (Pre)processing / Augmentation
 * Data (pre)processing
 1. Korean pronunciation and romanization based on Wiktionary ko-pron lua module [[code]](https://github.com/kord123/ko_pron)
