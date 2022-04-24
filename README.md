@@ -7,6 +7,8 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 ## Other Repositories to Refer to
 * Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
+* Speech Researchers List [[repo]](https://github.com/mutiann/speech_rankings)
+* 
 
 ## TTS
 * TTS
@@ -62,6 +64,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * Toolkits
   - IMS Toucan Speech Synthesis Toolkit [[paper]](http://festvox.org/blizzard/bc2021/BC21_IMS.pdf) [[code]](https://github.com/DigitalPhonetics/IMS-Toucan)
   - CREPE pitch tracker [[code]](https://github.com/maxrmorrison/torchcrepe)
+  - SpeechBrain - Useful tools to facilitate speech research  [[code]](https://github.com/speechbrain/speechbrain)
 
 * Vocoders
 
@@ -103,6 +106,12 @@ This repository organizes papers, learning materials, codes for the purpose of u
 2. Audio Signal Processing [[code]](https://github.com/sooftware/Audio-Signal-Processing)
 3. Phonological Features (for the paper "Phonological features for 0-shot multilingual speech synthesis") [[paper]] [[code]](https://github.com/papercup-open-source/phonological-features)
 4. SMART-G2P (change English and Kanji expressions in Korean sentence into Korean pronunciation) [[code]](https://github.com/SMART-TTS/SMART-G2P)
+5. Kakao Grapheme to Phoneme Conversion Package for "Mandarin" [[code]](https://github.com/kakaobrain/g2pM)
 
 * Data Augmentation
 1. Audiomentations (Fast audio data augmentation in pytorch) [[code]](https://github.com/asteroid-team/torch-audiomentations)
+
+## Other Research That May Help
+* Text to Image Synthesis
+  - Dalle2 [[code]](https://github.com/lucidrains/DALLE2-pytorch)
+* 
