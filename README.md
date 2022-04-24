@@ -1,15 +1,23 @@
 # Everything About Speech
 This repository organizes papers, learning materials, codes for the purpose of understanding speech. There is another repository for machine/deep learning [here](https://github.com/jinny1208/All-Resources-Related-to-ML-DL).
 
+## To Dos:
+- organize stars
+- add more papers 
+  - papers to read:
+    1. Speech=T:Transducer for TTS and Beyond
+
 ## Organizations
 * DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
 * Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
 
-## Other Repositories to Refer to - Speech Related
+## Other Repositories to Refer to - Speech Included/Related
 * Speech Researchers List [[repo]](https://github.com/mutiann/speech_rankings)
 * Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
 * Rosinality's ML [[repo]](https://github.com/rosinality/ml-papers)
-* 
+* ivallesp's [[repo]](https://github.com/ivallesp/papers)
+
+
 
 ## TTS
 * TTS
