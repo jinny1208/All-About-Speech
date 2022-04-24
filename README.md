@@ -5,9 +5,10 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
 * Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
 
-## Other Repositories to Refer to
-* Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
+## Other Repositories to Refer to - Speech Related
 * Speech Researchers List [[repo]](https://github.com/mutiann/speech_rankings)
+* Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
+* Rosinality's ML [[repo]](https://github.com/rosinality/ml-papers)
 * 
 
 ## TTS
