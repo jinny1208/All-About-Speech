@@ -17,6 +17,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * Rosinality's ML [[repo]](https://github.com/rosinality/ml-papers)
 * ivallesp's [[repo]](https://github.com/ivallesp/papers)
 * ddlBoJack's Speech Pretraining [[repo]](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
+* fuzhenxin's Style Transfer in Text [[repo]](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 
 
 
