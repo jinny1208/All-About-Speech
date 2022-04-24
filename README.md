@@ -5,6 +5,9 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
 * Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
 
+## Other Repositories to Refer to
+* Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
+
 ## TTS
 * TTS
   - DC-TTS [[paper]] [[pytorch]](https://github.com/chaiyujin/dctts-pytorch)[[tensorflow]](https://github.com/Kyubyong/dc_tts)
