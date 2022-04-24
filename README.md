@@ -16,6 +16,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
 * Rosinality's ML [[repo]](https://github.com/rosinality/ml-papers)
 * ivallesp's [[repo]](https://github.com/ivallesp/papers)
+* ddlBoJack's Speech Pretraining [[repo]](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
 
 
 
