@@ -9,6 +9,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 ## Organizations
 * DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
+* OpenAI [[repo]](https://github.com/openai)
 * Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
 
 ## Other Repositories to Refer to - Speech Included/Related
