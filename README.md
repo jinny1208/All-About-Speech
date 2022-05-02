@@ -71,6 +71,8 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Speech to Singing (Interspeech 2020) [[paper]] [[code]](https://github.com/ericwudayi/speech2singing)
   - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (AAAI 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/DiffSinger)
   - A Universal Music Translation Network (ICLR 2019) 
+  - Jukebox: A Generative Model for Music (OpenAI) [[paper]](https://arxiv.org/pdf/2005.00341.pdf) [[code]](https://github.com/openai/jukebox/tree/master/jukebox)
+
 
 * Toolkits
   - IMS Toucan Speech Synthesis Toolkit [[paper]](http://festvox.org/blizzard/bc2021/BC21_IMS.pdf) [[code]](https://github.com/DigitalPhonetics/IMS-Toucan)
