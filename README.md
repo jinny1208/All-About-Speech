@@ -20,7 +20,6 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * ddlBoJack's Speech Pretraining [[repo]](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
 * fuzhenxin's Style Transfer in Text [[repo]](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 
-
 ## TTS
 * TTS
   - DC-TTS [[paper]] [[pytorch]](https://github.com/chaiyujin/dctts-pytorch)[[tensorflow]](https://github.com/Kyubyong/dc_tts)
@@ -104,6 +103,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
 1. Digital Signal Processing Lecture [[link]](https://github.com/spatialaudio/digital-signal-processing-lecture)
 2. Ratsgo's Speechbook [[link]](https://github.com/ratsgo/speechbook)
 3. YSDA Course in Speech Processing [[code]](https://github.com/yandexdataschool/speech_course)
+4. NHN Forward Youtube video [[link]](https://www.youtube.com/watch?v=UGJMnRwL-mw)
 
 ## Datasets
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
