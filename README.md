@@ -20,7 +20,6 @@ This repository organizes papers, learning materials, codes for the purpose of u
 * fuzhenxin's Style Transfer in Text [[repo]](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 
 
-
 ## TTS
 * TTS
   - DC-TTS [[paper]] [[pytorch]](https://github.com/chaiyujin/dctts-pytorch)[[tensorflow]](https://github.com/Kyubyong/dc_tts)
@@ -71,6 +70,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
   - Speech to Singing (Interspeech 2020) [[paper]] [[code]](https://github.com/ericwudayi/speech2singing)
   - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (AAAI 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/DiffSinger)
+  - A Universal Music Translation Network (ICLR 2019) 
 
 * Toolkits
   - IMS Toucan Speech Synthesis Toolkit [[paper]](http://festvox.org/blizzard/bc2021/BC21_IMS.pdf) [[code]](https://github.com/DigitalPhonetics/IMS-Toucan)
