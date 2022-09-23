@@ -1,4 +1,4 @@
-# Everything About Speech
+# All About Speech
 This repository organizes papers, learning materials, codes for the purpose of understanding speech. There is another repository for machine/deep learning [here](https://github.com/jinny1208/All-Resources-Related-to-ML-DL).
 
 ## To Dos:
