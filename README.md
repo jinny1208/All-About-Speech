@@ -7,19 +7,6 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - papers to read:
     1. Speech=T:Transducer for TTS and Beyond
 
-## Organizations
-* DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
-* OpenAI [[repo]](https://github.com/openai)
-* Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
-
-## Other Repositories to Refer to - Speech Included/Related
-* Speech Researchers List [[repo]](https://github.com/mutiann/speech_rankings)
-* Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
-* Rosinality's ML [[repo]](https://github.com/rosinality/ml-papers)
-* ivallesp's [[repo]](https://github.com/ivallesp/papers)
-* ddlBoJack's Speech Pretraining [[repo]](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
-* fuzhenxin's Style Transfer in Text [[repo]](https://github.com/fuzhenxin/Style-Transfer-in-Text)
-
 ## TTS
 * TTS
   - DC-TTS [[paper]] [[pytorch]](https://github.com/chaiyujin/dctts-pytorch)[[tensorflow]](https://github.com/Kyubyong/dc_tts)
@@ -30,6 +17,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - FCL-taco2: Fast, Controllable and Lightweight version of Tacotron2 [[paper]] [[code]](https://github.com/Wendison/FCL-taco2)
   - Transformer TTS: Neural Speech Synthesis with Transformer Network [[paper]] [[code]](https://github.com/soobinseo/Transformer-TTS)
   - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech [[paper]] [[code]](https://github.com/jaywalnut310/vits)
+  - Reformer-TTS (adaptation of Reformer to TTS) [[code]](https://github.com/kowaalczyk/reformer-tts)
 
 
 * Voice Conversion / Voice Cloning / Speaker Embedding
@@ -65,6 +53,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - Building a mixed-lingual neural TTS system with only monolingual data
   - Transfer Learning, Style Control, and Speaker Reconstruction Loss for Zero-Shot Multilingual Multi-Speaker Text-to-Speech on Low-Resource Languages
     - has many good references
+  - Exploring Disentanglement with Multilingual and Monolingual VQ-VAE [[paper]](https://arxiv.org/pdf/2105.01573.pdf) [[code]](https://github.com/rhoposit/multilingual_VQVAE)
 
 * Music Related
   - Learning the Beauty in Songs: Neural Singing Voice Beautifier (ACL 2022) [[paper]] [[code]](https://github.com/MoonInTheRiver/NeuralSVB)
@@ -73,13 +62,14 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - A Universal Music Translation Network (ICLR 2019) 
   - Jukebox: A Generative Model for Music (OpenAI) [[paper]](https://arxiv.org/pdf/2005.00341.pdf) [[code]](https://github.com/openai/jukebox/tree/master/jukebox)
 
-
 * Toolkits
   - IMS Toucan Speech Synthesis Toolkit [[paper]](http://festvox.org/blizzard/bc2021/BC21_IMS.pdf) [[code]](https://github.com/DigitalPhonetics/IMS-Toucan)
   - CREPE pitch tracker [[code]](https://github.com/maxrmorrison/torchcrepe)
   - SpeechBrain - Useful tools to facilitate speech research  [[code]](https://github.com/speechbrain/speechbrain)
 
 * Vocoders
+* Attention
+  - Local attention [[code]](https://github.com/lucidrains/local-attention)
 
 ## ASR
 - Towards End-to-End Spoken Language Understanding 
@@ -99,21 +89,15 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 ## Linguistics
 
-## Learning Materials
-1. Digital Signal Processing Lecture [[link]](https://github.com/spatialaudio/digital-signal-processing-lecture)
-2. Ratsgo's Speechbook [[link]](https://github.com/ratsgo/speechbook)
-3. YSDA Course in Speech Processing [[code]](https://github.com/yandexdataschool/speech_course)
-4. NHN Forward Youtube video [[link]](https://www.youtube.com/watch?v=UGJMnRwL-mw)
-
 ## Datasets
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
 2. CSS10: A collection of single speaker speech datsets for 10 langauges [[code]](https://github.com/Kyubyong/css10)
 3. IEMOCAP: 12 hours of audiovisual data with 10 male and female actors [[website](https://sail.usc.edu/iemocap/iemocap_release.htm)]
+4. VoxCeleb [[repo]](https://github.com/clovaai/voxceleb_trainer)
 
 ## Aligners
 1. Montreal Forced Aligner
   - For Korean [[link](https://chldkato.tistory.com/195)]
-3. df
 
 ## Data (Pre)processing / Augmentation
 * Data (pre)processing
@@ -122,11 +106,36 @@ This repository organizes papers, learning materials, codes for the purpose of u
 3. Phonological Features (for the paper "Phonological features for 0-shot multilingual speech synthesis") [[paper]] [[code]](https://github.com/papercup-open-source/phonological-features)
 4. SMART-G2P (change English and Kanji expressions in Korean sentence into Korean pronunciation) [[code]](https://github.com/SMART-TTS/SMART-G2P)
 5. Kakao Grapheme to Phoneme Conversion Package for "Mandarin" [[code]](https://github.com/kakaobrain/g2pM)
+6. Webaverse Speech Tool [[code]](https://github.com/webaverse/LJSpeechTools)
+
 
 * Data Augmentation
 1. Audiomentations (Fast audio data augmentation in pytorch) [[code]](https://github.com/asteroid-team/torch-audiomentations)
+2. 
 
 ## Other Research That May Help
 * Text to Image Synthesis
   - Dalle2 [[code]](https://github.com/lucidrains/DALLE2-pytorch)
-* 
+* AudioMAE (Masked Autoencoders that Listen) [[code]](https://github.com/rishikksh20/AudioMAE-pytorch)
+
+--------------------------
+
+## Organizations
+* DeepMind [[repo]](https://github.com/deepmind/deepmind-research)
+* OpenAI [[repo]](https://github.com/openai)
+* Club House: WeeklyArxivTalk [[repo]](https://github.com/jungwoo-ha/WeeklyArxivTalk)
+
+## Other Repositories to Refer to - Speech Included/Related
+* Speech Researchers List [[repo]](https://github.com/mutiann/speech_rankings)
+* Jackson-Kang [[repo]](https://github.com/Jackson-Kang/Awesome-DL-based-Text-to-speech-Papers-and-Resources)
+* Rosinality's ML [[repo]](https://github.com/rosinality/ml-papers)
+* ivallesp's [[repo]](https://github.com/ivallesp/papers)
+* ddlBoJack's Speech Pretraining [[repo]](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
+* fuzhenxin's Style Transfer in Text [[repo]](https://github.com/fuzhenxin/Style-Transfer-in-Text)
+
+## Learning Materials
+1. Digital Signal Processing Lecture [[link]](https://github.com/spatialaudio/digital-signal-processing-lecture)
+2. Ratsgo's Speechbook [[link]](https://github.com/ratsgo/speechbook)
+3. YSDA Course in Speech Processing [[code]](https://github.com/yandexdataschool/speech_course)
+4. NHN Forward Youtube video [[link]](https://www.youtube.com/watch?v=UGJMnRwL-mw)
+
