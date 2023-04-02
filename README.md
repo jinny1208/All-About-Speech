@@ -90,11 +90,19 @@ This repository organizes papers, learning materials, codes for the purpose of u
 
 ## Linguistics
 
+
+--------------------------
+
+
 ## Datasets
 1. VGGSound: A Large-scale Audio-Visual Dataset [[paper]] [[code]](https://github.com/hche11/VGGSound)
 2. CSS10: A collection of single speaker speech datsets for 10 langauges [[code]](https://github.com/Kyubyong/css10)
 3. IEMOCAP: 12 hours of audiovisual data with 10 male and female actors [[website](https://sail.usc.edu/iemocap/iemocap_release.htm)]
 4. VoxCeleb [[repo]](https://github.com/clovaai/voxceleb_trainer)
+
+## Data Augmentation
+1. Audiomentations (Fast audio data augmentation in pytorch) [[code]](https://github.com/asteroid-team/torch-audiomentations)
+2. 
 
 ## Aligners
 1. Montreal Forced Aligner
@@ -109,10 +117,11 @@ This repository organizes papers, learning materials, codes for the purpose of u
 5. Kakao Grapheme to Phoneme Conversion Package for "Mandarin" [[code]](https://github.com/kakaobrain/g2pM)
 6. Webaverse Speech Tool [[code]](https://github.com/webaverse/LJSpeechTools)
 
+## Verification
+1. MCD [[repo]](https://github.com/jasminsternkopf/mel_cepstral_distance/tree/main)
+  - Code works, but I am not sure if it is right. MCD numbers are a bit too high even for pairs of similar audios.
+2.
 
-* Data Augmentation
-1. Audiomentations (Fast audio data augmentation in pytorch) [[code]](https://github.com/asteroid-team/torch-audiomentations)
-2. 
 
 ## Other Research That May Help
 * Text to Image Synthesis
