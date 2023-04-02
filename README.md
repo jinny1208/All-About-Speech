@@ -19,6 +19,7 @@ This repository organizes papers, learning materials, codes for the purpose of u
   - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech [[paper]] [[code]](https://github.com/jaywalnut310/vits)
   - Reformer-TTS (adaptation of Reformer to TTS) [[code]](https://github.com/kowaalczyk/reformer-tts)
 
+* Prompt-based TTS (see [[link]](https://github.com/liusongxiang/Large-Audio-Models))
 
 * Voice Conversion / Voice Cloning / Speaker Embedding
   - StarGan-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks [[paper]] [[code]](https://github.com/liusongxiang/StarGAN-Voice-Conversion)
